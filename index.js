@@ -15,9 +15,9 @@ const loggerError = logs.getLogger("error");
 
 
 //Minimist - Configuracion puerto
-const optMinimist = {default: {PORT:8080}}
-const args = parseArgs(process.argv.slice(2),optMinimist)
-const PORT = args.PORT;
+//const optMinimist = {default: {PORT:8080}}
+//const args = parseArgs(process.argv.slice(2),optMinimist)
+const PORT = 8080;//args.PORT;
 
 //Sesiones
 app.use(session({
