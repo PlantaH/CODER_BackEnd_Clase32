@@ -6,3 +6,13 @@
 [2022-05-03T13:37:29.022] [INFO] consola - ruta /api/productosTest metodo GET
 [2022-05-03T13:37:29.028] [INFO] consola - ruta /api/chat metodo GET
 [2022-05-03T13:37:29.414] [INFO] consola - ruta /asd metodo GET
+[2022-05-10T12:07:45.654] [INFO] consola - ruta /favicon.ico metodo GET
+[2022-05-10T12:07:46.090] [INFO] consola - ruta /api/productosTest metodo GET
+[2022-05-10T12:07:46.095] [INFO] consola - ruta /api/chat metodo GET
+[2022-05-10T12:08:04.093] [INFO] consola - ruta /api/login metodo GET
+[2022-05-10T12:08:04.699] [INFO] consola - ruta /api/chat metodo POST
+[2022-05-10T12:08:07.787] [INFO] consola - ruta /api/login metodo POST
+[2022-05-10T12:08:08.965] [INFO] consola - ruta /api/productosTest metodo GET
+[2022-05-10T12:08:09.157] [INFO] consola - ruta /api/chat metodo GET
+[2022-05-10T12:08:09.167] [INFO] consola - ruta /api/login metodo GET
+[2022-05-10T12:08:09.474] [INFO] consola - ruta /asd metodo GET
