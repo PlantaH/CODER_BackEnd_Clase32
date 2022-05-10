@@ -29,7 +29,7 @@ app.use(session({
 }))
 
 //Midelware
-app.use(express.static(__dirname + '/public'));
+app.use(express.static('public')); //app.use(express.static(__dirname + '/public'));
 app.use(express.json()); // body-parser
 app.use(express.urlencoded({ extended: true }));
 app.use(passport.initialize());
